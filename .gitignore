@@ -1,0 +1,20 @@
+# Private keys / certificates
+*.key
+*.pem
+*.pfx
+*.p12
+
+# Backup configuration
+*.bak
+*.backup
+*.old
+*working.conf
+*before_combined*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.tmp
