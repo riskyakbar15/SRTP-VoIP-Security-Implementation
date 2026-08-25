@@ -916,3 +916,11 @@ analisis perbandingan RTP dan SRTP + TLS, serta kesimpulan proyek.
 - Stallings, W. (2017). _Cryptography and Network Security: Principles and Practice_ (7th ed.). Pearson.
 
 ---
+
+<!-- markdownlint-disable MD033 -->
+<div align="center">
+
+Made With ❤️ By [riskyakbar15](https://github.com/riskyakbar15) For Education.
+
+</div>
+<!-- markdownlint-enable MD033 -->
